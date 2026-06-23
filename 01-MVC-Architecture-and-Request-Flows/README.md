@@ -47,7 +47,7 @@ Understanding how requests flow through Laravel is crucial for building robust a
 │    └──────────┘      └──────────────┘      └────────────┘      │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
-```
+
 
 | Component | Responsibility | Laravel Directory |
 |-----------|---------------|-------------------|
@@ -62,6 +62,7 @@ Understanding how requests flow through Laravel is crucial for building robust a
 ### 1. Model (`app/Models/`)
 
 ```php
+
 <?php
 
 namespace App\Models;
@@ -1138,7 +1139,6 @@ Continue to the next documentation file for more Laravel concepts:
 - [Eloquent ORM & Relationships →](./03-Eloquent-ORM.md)
 - [Blade Templating →](./04-Blade-Templating.md)
 
----
 
 > **📝 Note**: This documentation is part of the **Laravel 12 Documentation Repository** - a comprehensive guide covering all Laravel functionalities with practical examples.
 ```
