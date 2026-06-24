@@ -101,7 +101,7 @@ project-root/
     ├── api.php        ← API routes (JSON responses)
     ├── console.php    ← Custom Artisan commands
     └── channels.php   ← WebSocket broadcast channels
-```
+
 
 > **📝 Note:** In Laravel 12, route files are registered in `bootstrap/app.php` using the new streamlined configuration.
 
