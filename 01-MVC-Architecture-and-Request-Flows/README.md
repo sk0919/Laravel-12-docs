@@ -1135,7 +1135,7 @@ class UserController extends Controller
 
 Continue to the next documentation file for more Laravel concepts:
 
-- [Routing & Middleware →](./02-Routing-Middleware.md)
+- [Routing & Middleware →](././02-Routing-Middleware/README.md)
 - [Eloquent ORM & Relationships →](./03-Eloquent-ORM.md)
 - [Blade Templating →](./04-Blade-Templating.md)
 
@@ -1143,4 +1143,4 @@ Continue to the next documentation file for more Laravel concepts:
 > **📝 Note**: This documentation is part of the **Laravel 12 Documentation Repository** - a comprehensive guide covering all Laravel functionalities with practical examples.
 ```
 
----
+
