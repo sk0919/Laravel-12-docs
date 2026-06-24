@@ -1142,5 +1142,3 @@ Continue to the next documentation file for more Laravel concepts:
 
 > **📝 Note**: This documentation is part of the **Laravel 12 Documentation Repository** - a comprehensive guide covering all Laravel functionalities with practical examples.
 ```
-
-
